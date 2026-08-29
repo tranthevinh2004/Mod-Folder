@@ -1,0 +1,19 @@
+{
+	id: "975e7ad4-dfce-3808-ae81-11cee257ce30"
+	type: "player"
+	player_name: "indz"
+	ranks: {
+		975e7ad4-dfce-3808-ae81-11cee257ce30: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "indz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

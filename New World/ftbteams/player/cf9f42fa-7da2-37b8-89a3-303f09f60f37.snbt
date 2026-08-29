@@ -1,0 +1,19 @@
+{
+	id: "cf9f42fa-7da2-37b8-89a3-303f09f60f37"
+	type: "player"
+	player_name: "Jidz"
+	ranks: {
+		cf9f42fa-7da2-37b8-89a3-303f09f60f37: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Jidz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF5C"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}
